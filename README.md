@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Naga+Venkata+Sahithi+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Quantum+Computing+Enthusiast;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parepallinagavenkatasahithi&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -105,10 +101,7 @@
 
 ## 🌐 Let's Connect!
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-venkata-sahithi-parepalli-59a844298)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahithiparepalli11)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahithiparepalli11@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1lcisCGYrK06yyfr4GcCEt4jz6INpNoo2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-venkata-sahithi-parepalli-59a844298) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahithiparepalli11) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahithiparepalli11@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1lcisCGYrK06yyfr4GcCEt4jz6INpNoo2)
 </div>
 
 ---
